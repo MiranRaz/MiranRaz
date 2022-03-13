@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with learning as much as I can untill my last breath.
 - 💬 Ask me about software, programming, development, economy, stocks, crypto and music.
 - 📫 You can reach my on my portfolio link <a href ="https://miranraz.github.io/MyPortfolio/">here</a> 
-- ⚡ Fun fact: I am also a self-taught musician. I write and mix all of my songs. Check them out <a href ="https://www.youtube.com/channel/UCQ0Wq9XGw0CQs0tWi2rZb8g">here</a> 
+- ⚡ Fun fact: I am also a self-taught musician. I write, record and mix all of my songs. Check them out <a href ="https://www.youtube.com/channel/UCQ0Wq9XGw0CQs0tWi2rZb8g">here</a> 
 
