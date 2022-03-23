@@ -1,8 +1,8 @@
 ### Hi there 👋, Miran Ražnatović here
-#### React JS Frontend developer
-![React JS Frontend developer](https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png)
+#### React JS  and .NET fullstack developer
+![React JS and .NET fullstack developer](https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png)
 
-Bachelor of Information Technology in Software development. Frontend developer currently working in ReactJS.   
+Bachelor of Information Technology in Software development. Fullstack developer currently working in ReactJS.   
 
 Skills: REACT JS / DOTNET / MSSQL / HTML / CSS
 
