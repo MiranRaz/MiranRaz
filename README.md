@@ -2,7 +2,7 @@
 #### React JS  and .NET fullstack developer
 ![React JS and .NET fullstack developer](https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png)
 
-Bachelor of Information Technology in Software development. Fullstack developer currently working in ReactJS.   
+Bachelor of Information Technology in Software development. Fullstack developer currently working in ReactJS and DOTNET.   
 
 Skills: REACT JS / DOTNET / MSSQL / HTML / CSS
 
