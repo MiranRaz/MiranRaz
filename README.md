@@ -1,4 +1,4 @@
-### Hi there 👋, Miran Ražnatović here
+### Hi there 👋
 #### React JS  and .NET fullstack developer
 ![React JS and .NET fullstack developer](https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png)
 
