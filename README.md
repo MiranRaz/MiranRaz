@@ -6,10 +6,8 @@ Bachelor of Information Technology in Software development. Fullstack developer 
 
 Skills: REACT JS / DOTNET / MSSQL / HTML / CSS
 
-- 🔭 I’m currently working on getting a job or an internship 
-- 🌱 I’m currently learning React JS 
-- 👯 I’m looking to collaborate on the biggest projects that are, one day, going to change the world. 
-- 🤔 I’m looking for knowledge and good books. 
+- 🔭 I’m looking to collaborate on the biggest projects that are, one day, going to change the world. 
+- 🤔 I’m actively seeking knowledge and good books. 
 - 💬 Ask me about software, programming, development, economy, stocks, crypto and music. 
 - 📫 How to reach me: on my portfolio link <a href ="https://miranraz.github.io/MyPortfolio/" target="_blank">here</a>  
 - ⚡ Fun fact: I am also a self-taught musician and active in the music business. I write, record and mix all of my songs. Check them out <a href ="https://www.youtube.com/channel/UCQ0Wq9XGw0CQs0tWi2rZb8g" target="_blank">here</a>  
