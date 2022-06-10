@@ -6,7 +6,6 @@
 Bachelor of Information Technology in Software development. Fullstack developer currently working in ReactJS and DOTNET.   
 
 Skills: REACT JS / DOTNET / MSSQL / HTML / CSS
-  #### <a href=https://www.npmjs.com/~miranraz target="_blank">My NPM PAGE</a>
 
 - 🔭 I’m looking to collaborate on the most creative and history changing projects. 
 - 🤔 I’m actively seeking knowledge and good books. 
