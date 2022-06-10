@@ -1,5 +1,5 @@
-### Hi there 👋
-#### React JS  and .NET fullstack developer
+### <h1 align="center">Hello</h1>
+#### <h3 align="center">React JS  and .NET fullstack developer here</h3>
 
 <img src='https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png' alt='miranraz' height='300' width='100%'>
 
