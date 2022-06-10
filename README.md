@@ -1,6 +1,7 @@
 ### Hi there 👋
 #### React JS  and .NET fullstack developer
-![React JS and .NET fullstack developer](https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png)
+<!-- ![React JS and .NET fullstack developer](https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png)
+ -->
 [<img src='https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png' alt='miranraz' height='100' width='100vw'>]([https://miranraz.github.io/MyPortfolio/](https://miranraz.github.io/MyPortfolio/https://miranraz.github.io/MyPortfolio) 
 
 Bachelor of Information Technology in Software development. Fullstack developer currently working in ReactJS and DOTNET.   
