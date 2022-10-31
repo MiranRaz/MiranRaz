@@ -1,11 +1,11 @@
 ### <h1 align="center">Hello</h1>
-#### <h3 align="center">React JS  and .NET fullstack developer here</h3>
+#### <h3 align="center">Basically a frontend developer here (but I'm full-stack (wink:wink) </h3>
 
 <a href="https://miranraz.github.io/MyPortfolio/"><img src='https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png' alt='miranraz' height='300' width='100%'></a>
 
 Bachelor of Information Technology in Software development. Fullstack developer currently working in ReactJS and DOTNET.   
 
-Skills: REACT JS / DOTNET / MSSQL / HTML / CSS
+Skills: REACT JS / NEXT JS/ DOTNET / MSSQL / HTML / CSS / JS 
 
 - 🔭 I’m looking to collaborate on the most creative and history changing projects. 
 - 🤔 I’m actively seeking knowledge and good books. 
