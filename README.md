@@ -2,7 +2,7 @@
 #### <h3 align="center">Basically a frontend developer here {but I'm full-stack (wink:wink) </h3>
 
 **👁️ did you notice that i forgot to close the bracket up there 👁️...
-if you did 🥷 and are looking 🕵️‍ for a developer 👨‍💻 we're gonna get along just fine 🫶🏼! but if you didn't, I probably won't talk to you 🤷‍♂️.(just-kidding)
+if you did 🥷 and are looking 🕵️‍ for a developer 👨‍💻 we're gonna get along just fine 🫶🏼!<br/> but if you didn't, I probably won't talk to you 🤷‍♂️.(just-kidding)
 So, what I want to tell you is that If you want me to solve your problems 🚩 -> I'm your guy 🫡! but if you don't care about the details and refinement of coding... I just don't want to loose time on bad products and projects 💀... I want to work on something that's great and game changing, that helps to change the world and give it a new perspective and light on things!
 
 <a href="https://miranraz.github.io/MyPortfolio/"><img src='https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png' alt='miranraz' height='300' width='100%'></a>
