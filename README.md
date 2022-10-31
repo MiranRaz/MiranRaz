@@ -1,5 +1,5 @@
 ### <h1 align="center">Hello</h1>
-#### <h3 align="center">Basically a frontend developer here (but I'm full-stack (wink:wink) </h3>
+#### <h3 align="center">Basically a frontend developer here {but I'm full-stack (wink:wink) </h3>
 
 **did you notice that i forgot to close the bracket up there...
 if you did you and are looking for a developer I'm your guy. If you didn't I probably won't talk with you.
