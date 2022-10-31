@@ -4,6 +4,7 @@
 **👁️ did you notice that i forgot to close the bracket up there 👁️...
 if you did 🥷 and are looking 🕵️‍ for a developer 👨‍💻 we're gonna get along just fine 🫶🏼!<br/> But if you didn't, I probably won't talk to you 🤷‍♂️.(just-kidding)<br/>
 So, what I want to tell you 🗣️ is that If you want me to solve your problems 🚩 -> I'm your guy 🫡! But if you don't care about the details and refinement of coding... I just don't want to loose time ⌛ on bad products and projects 💀...
+But again, we all make mistakes 🤔, so just contact me 🤙 and we will figure something out!!!
 
 <a href="https://miranraz.github.io/MyPortfolio/"><img src='https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png' alt='miranraz' height='300' width='100%'></a>
 
