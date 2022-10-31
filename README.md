@@ -2,7 +2,7 @@
 #### <h3 align="center">Basically a frontend developer here {but I'm full-stack (wink:wink) </h3>
 
 **did you notice that i forgot to close the bracket up there...
-if you did you and are looking for a developer I'm your guy. If you didn't I probably won't talk with you.
+if you did and are looking for a developer we're gonna get along just fine, but if you didn't I probably won't talk to you.
 
 <a href="https://miranraz.github.io/MyPortfolio/"><img src='https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png' alt='miranraz' height='300' width='100%'></a>
 
