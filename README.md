@@ -9,6 +9,7 @@ But again 🤔, we all make mistakes, so just contact me 📞 and we will figure
 <a href="[https://miranraz.github.io/MyPortfolio](https://miranraz.github.io/)/"><img src='https://raw.githubusercontent.com/MiranRaz/MiranRaz/main/banner.png' alt='miranraz' height='300' width='100%'></a>
 
 ### <h1 align="center"><a style="color: black;text-decoration:none;" href="https://miranraz.github.io/">My portfolio page</a></h1>
+[I'm an inline-style link](https://www.google.com](https://miranraz.github.io/)
 
 Bachelor of Information Technology in Software development. Fullstack developer currently working in ReactJS and DOTNET.   
 
